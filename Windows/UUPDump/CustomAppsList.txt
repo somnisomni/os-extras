@@ -44,18 +44,19 @@ Microsoft.XboxIdentityProvider_8wekyb3d8bbwe
 # Clipchamp.Clipchamp_yxz26nhyzhsrt
 # Microsoft.OutlookForWindows_8wekyb3d8bbwe
 # MicrosoftTeams_8wekyb3d8bbwe
-# Microsoft.Windows.DevHome_8wekyb3d8bbwe
+Microsoft.Windows.DevHome_8wekyb3d8bbwe
 # Microsoft.BingSearch_8wekyb3d8bbwe
 Microsoft.ApplicationCompatibilityEnhancements_8wekyb3d8bbwe
-MicrosoftWindows.CrossDevice_cw5n1h2txyewy
+# MicrosoftWindows.CrossDevice_cw5n1h2txyewy
 # MSTeams_8wekyb3d8bbwe
 # Microsoft.MicrosoftPCManager_8wekyb3d8bbwe
 # Microsoft.StartExperiencesApp_8wekyb3d8bbwe
+# Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe
 
 ### Media Apps / Client non-N editions
 # Microsoft.ZuneMusic_8wekyb3d8bbwe
 # Microsoft.ZuneVideo_8wekyb3d8bbwe
-Microsoft.YourPhone_8wekyb3d8bbwe
+# Microsoft.YourPhone_8wekyb3d8bbwe
 # Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe
 Microsoft.GamingApp_8wekyb3d8bbwe
 Microsoft.XboxGamingOverlay_8wekyb3d8bbwe
